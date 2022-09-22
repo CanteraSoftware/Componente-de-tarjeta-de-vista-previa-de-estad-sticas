@@ -14,7 +14,7 @@ Además de intentar replicar la vista del componente, es necesario cumplir con o
 - Iniciar un control de versiones nuevo en el proyecto.
 - Agregar mediaquery para la vista mobile a partir de los 375px.
 - Ver el diseño óptimo según el tamaño de pantalla de su dispositivo.
-- Agregar filtro de color en imagen.
+- Agregar filtro de color en imagen. [Ayuda](https://vm.tiktok.com/ZMFdmVdKD/)
 - Subir el proyecto a GitHub en un repositorio de tu perfil.
 - Agregar como colaborador al usuario“CanteraSoftware".
 
