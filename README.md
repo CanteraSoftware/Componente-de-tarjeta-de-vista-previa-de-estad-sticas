@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/j8rds7B/Logo-5.png)
 
-# Componente de resumen de pedido
+# Componente de tarjeta de vista previa de estadisticas
 
 Su desafío es construir este componente de la tarjeta y lograr que se parezca lo más posible al diseño.
 
